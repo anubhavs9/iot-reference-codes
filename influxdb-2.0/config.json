@@ -1,0 +1,6 @@
+{
+    "token" : "YOUR TOKEN",
+    "org" : "YOUR ORGANIZATION NAME",
+    "bucket" : "YOUR BUCKET NAME",
+    "url" : "INFLUX DB URL"
+}
