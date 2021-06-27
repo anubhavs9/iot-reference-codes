@@ -24,7 +24,7 @@ This folder contains sample codes which can be used as reference for sending and
         python3 data_recv.py
     ```
 - Visialize stored data on InfluxDB console
-- 
+
 ## License
 
 MIT
